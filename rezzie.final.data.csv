@@ -23,38 +23,38 @@
 214,b2,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (-1 DAT),common ragweed,16,1m2,0,0,72,72,28.5,34,yes,utc,early,yes,utc,early,no,,,no,,,yes,80.2,4115.7,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 311,b3,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (-1 DAT),common ragweed,18,1m2,8,16,80,104,28.5,28,yes,utc,early,yes,utc,early,no,,,no,,,yes,54.6,5084.1,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 402,b4,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (-1 DAT),common ragweed,12,1m2,4,8,44,56,28.5,30,yes,utc,early,yes,utc,early,no,,,no,,,yes,44.2,4035,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-105,b1,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,16,16,28.5,28,no,,,no,,,no,,,no,,,yes,77.8,5077.375,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-206,b2,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,0,0,28.5,34,no,,,no,,,no,,,no,,,yes,76,5326.2,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-305,b3,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,12,12,28.5,28,no,,,no,,,no,,,no,,,yes,62,4371.25,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-415,b4,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,10,1m2,0,0,4,4,28.5,30,no,,,no,,,no,,,no,,,yes,54.6,4613.35,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-104,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,8,8,28.5,28,no,,,no,,,no,,,no,,,yes,77.8,4418.325,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-208,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,8,8,28.5,34,no,,,no,,,no,,,no,,,yes,76,4828.55,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-304,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,10,1m2,0,0,4,4,28.5,28,no,,,no,,,no,,,no,,,yes,62,4122.425,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-414,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,4,4,28.5,30,no,,,no,,,no,,,no,,,yes,54.6,4377.975,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+105,b1,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,16,16,28.5,28,yes,pre,std,no,,,yes,pre,std,no,,,yes,77.8,5077.375,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+206,b2,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,0,0,28.5,34,yes,pre,std,no,,,yes,pre,std,no,,,yes,76,5326.2,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+305,b3,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,12,12,28.5,28,yes,pre,std,no,,,yes,pre,std,no,,,yes,62,4371.25,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+415,b4,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,10,1m2,0,0,4,4,28.5,30,yes,pre,std,no,,,yes,pre,std,no,,,yes,54.6,4613.35,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+104,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,8,8,28.5,28,no,,,yes,pre,std,no,,,yes,pre,std,yes,77.8,4418.325,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+208,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,8,8,28.5,34,no,,,yes,pre,std,no,,,yes,pre,std,yes,76,4828.55,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+304,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,10,1m2,0,0,4,4,28.5,28,no,,,yes,pre,std,no,,,yes,pre,std,yes,62,4122.425,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+414,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,4,4,28.5,30,no,,,yes,pre,std,no,,,yes,pre,std,yes,54.6,4377.975,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 101,b1,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11.5,1m2,0,0,16,16,28.5,28,no,,,no,,,no,,,no,,,yes,76,4418.325,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 210,b2,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,8,1m2,0,0,8,8,28.5,34,no,,,no,,,no,,,no,,,yes,62,4512.475,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 303,b3,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,0,0,28.5,28,no,,,no,,,no,,,no,,,yes,77.8,4499.025,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 413,b4,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,10,1m2,0,0,8,8,28.5,30,no,,,no,,,no,,,no,,,yes,54.6,4694.05,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-115,b1,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,12,1m2,0,0,16,16,28.5,28,no,,,no,,,no,,,no,,,yes,62,4115.7,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-205,b2,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,24,24,28.5,34,no,,,no,,,no,,,no,,,yes,137,4996.675,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-310,b3,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,36,36,28.5,28,no,,,no,,,no,,,no,,,yes,98,4532.65,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-410,b4,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,7,1m2,0,0,16,16,28.5,30,no,,,no,,,no,,,no,,,yes,70.8,4344.35,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-114,b1,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,0,0,28.5,28,no,,,no,,,no,,,no,,,yes,62,4451.95,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-204,b2,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,4,4,28.5,34,no,,,no,,,no,,,no,,,yes,137,4492.3,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-308,b3,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,8,1m2,0,0,8,8,28.5,28,no,,,no,,,no,,,no,,,yes,98,5568.3,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-407,b4,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,8,1m2,0,0,12,12,28.5,30,no,,,no,,,no,,,no,,,yes,70.8,4445.225,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+115,b1,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,12,1m2,0,0,16,16,28.5,28,no,,,no,,,yes,pre,std,no,,,yes,62,4115.7,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+205,b2,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,24,24,28.5,34,no,,,no,,,yes,pre,std,no,,,yes,137,4996.675,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+310,b3,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,36,36,28.5,28,no,,,no,,,yes,pre,std,no,,,yes,98,4532.65,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+410,b4,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,7,1m2,0,0,16,16,28.5,30,no,,,no,,,yes,pre,std,no,,,yes,70.8,4344.35,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+114,b1,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,0,0,28.5,28,no,,,no,,,no,,,yes,pre,late,yes,62,4451.95,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+204,b2,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,4,4,28.5,34,no,,,no,,,no,,,yes,pre,late,yes,137,4492.3,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+308,b3,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,8,1m2,0,0,8,8,28.5,28,no,,,no,,,no,,,yes,pre,late,yes,98,5568.3,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+407,b4,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,8,1m2,0,0,12,12,28.5,30,no,,,no,,,no,,,yes,pre,late,yes,70.8,4445.225,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 112,b1,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,12,1m2,0,0,0,0,28.5,28,no,,,no,,,no,,,no,,,yes,62,4868.9,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 203,b2,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,9,1m2,0,0,12,12,28.5,34,no,,,no,,,no,,,no,,,yes,137,5299.3,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 309,b3,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,8,1m2,0,0,4,4,28.5,28,no,,,no,,,no,,,no,,,yes,98,4768.025,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 408,b4,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,7,1m2,0,0,0,0,28.5,30,no,,,no,,,no,,,no,,,yes,70.8,4667.15,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-109,b1,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,15,1m2,0,4,16,20,28.5,28,no,,,no,,,no,,,no,,,yes,73.8,4438.5,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-212,b2,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,16,16,28.5,34,no,,,no,,,no,,,no,,,yes,80.2,4108.975,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-314,b3,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,16,1m2,0,0,20,20,28.5,28,no,,,no,,,no,,,no,,,yes,54.6,4573,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-401,b4,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,13,1m2,0,4,32,36,28.5,30,no,,,no,,,no,,,no,,,yes,44.2,4095.525,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-107,b1,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,13,1m2,0,0,0,0,28.5,28,no,,,no,,,no,,,no,,,yes,73.8,5312.75,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-211,b2,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,15,1m2,0,0,8,8,28.5,34,no,,,no,,,no,,,no,,,yes,80.2,4203.125,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-312,b3,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,15,1m2,0,0,8,8,28.5,28,no,,,no,,,no,,,no,,,yes,54.6,4599.9,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-403,b4,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,13,1m2,0,0,12,12,28.5,30,no,,,no,,,no,,,no,,,yes,44.2,4108.975,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+109,b1,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,15,1m2,0,4,16,20,28.5,28,yes,pre,early,no,,,no,,,no,,,yes,73.8,4438.5,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+212,b2,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,16,16,28.5,34,yes,pre,early,no,,,no,,,no,,,yes,80.2,4108.975,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+314,b3,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,16,1m2,0,0,20,20,28.5,28,yes,pre,early,no,,,no,,,no,,,yes,54.6,4573,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+401,b4,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,13,1m2,0,4,32,36,28.5,30,yes,pre,early,no,,,no,,,no,,,yes,44.2,4095.525,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+107,b1,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,13,1m2,0,0,0,0,28.5,28,no,,,yes,pre,early,no,,,no,,,yes,73.8,5312.75,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+211,b2,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,15,1m2,0,0,8,8,28.5,34,no,,,yes,pre,early,no,,,no,,,yes,80.2,4203.125,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+312,b3,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,15,1m2,0,0,8,8,28.5,28,no,,,yes,pre,early,no,,,no,,,yes,54.6,4599.9,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+403,b4,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,13,1m2,0,0,12,12,28.5,30,no,,,yes,pre,early,no,,,no,,,yes,44.2,4108.975,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 108,b1,10,early (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,14,1m2,0,0,0,0,28.5,28,no,,,no,,,no,,,no,,,yes,73.8,5023.575,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 213,b2,10,early (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,4,4,28.5,34,no,,,no,,,no,,,no,,,yes,80.2,4122.425,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 313,b3,10,early (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (-1 DAT),common ragweed,11,1m2,0,0,0,0,28.5,28,no,,,no,,,no,,,no,,,yes,54.6,4512.475,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
@@ -143,22 +143,22 @@
 215,b2,9,early (1 DAP),POST,no residual,yes,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,20,1m2,0,0,0,0,7.87,1,yes,utc,early,yes,utc,early,no,,,no,,,yes,321.8,2517.407,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 307,b3,9,early (1 DAP),POST,no residual,yes,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,27,1m2,0,0,0,0,7.87,7,yes,utc,early,yes,utc,early,no,,,no,,,yes,321.8,4075.411,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 412,b4,9,early (1 DAP),POST,no residual,yes,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,25,1m2,0,0,2,2,7.87,4,yes,utc,early,yes,utc,early,no,,,no,,,yes,321.8,3353.372,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-111,b1,2,standard (14 DPP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,20,1m2,2,6,12,20,7.87,2,no,,,no,,,no,,,no,,,yes,191.2,3804.402,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-208,b2,2,standard (14 DPP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,2,2,4,7.87,1,no,,,no,,,no,,,no,,,yes,191.2,3792.893,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-302,b3,2,standard (14 DPP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,17,1m2,0,4,2,6,7.87,7,no,,,no,,,no,,,no,,,yes,191.2,3526.135,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-410,b4,2,standard (14 DPP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,13,1m2,0,2,4,6,7.87,4,no,,,no,,,no,,,no,,,yes,191.2,2599.407,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-112,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,2,0,2,7.87,2,no,,,no,,,no,,,no,,,yes,191.2,3727.215,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-206,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,18,1m2,0,4,0,4,7.87,1,no,,,no,,,no,,,no,,,yes,191.2,3715.182,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-305,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,8,8,7.87,7,no,,,no,,,no,,,no,,,yes,191.2,2864.069,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-406,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,15,1m2,0,0,4,4,7.87,4,no,,,no,,,no,,,no,,,yes,191.2,2527.475,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+111,b1,2,standard (14 DPP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,20,1m2,2,6,12,20,7.87,2,yes,pre,std,no,,,yes,pre,std,no,,,yes,191.2,3804.402,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+208,b2,2,standard (14 DPP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,2,2,4,7.87,1,yes,pre,std,no,,,yes,pre,std,no,,,yes,191.2,3792.893,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+302,b3,2,standard (14 DPP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,17,1m2,0,4,2,6,7.87,7,yes,pre,std,no,,,yes,pre,std,no,,,yes,191.2,3526.135,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+410,b4,2,standard (14 DPP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,13,1m2,0,2,4,6,7.87,4,yes,pre,std,no,,,yes,pre,std,no,,,yes,191.2,2599.407,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+112,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,2,0,2,7.87,2,no,,,yes,pre,std,no,,,no,,,yes,191.2,3727.215,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+206,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,18,1m2,0,4,0,4,7.87,1,no,,,yes,pre,std,no,,,no,,,yes,191.2,3715.182,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+305,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,8,8,7.87,7,no,,,yes,pre,std,no,,,no,,,yes,191.2,2864.069,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+406,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,15,1m2,0,0,4,4,7.87,4,no,,,yes,pre,std,no,,,no,,,yes,191.2,2527.475,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 113,b1,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,0,0,0,7.87,2,no,,,no,,,no,,,no,,,yes,191.2,4068.618,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 210,b2,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,13,1m2,0,0,4,4,7.87,1,no,,,no,,,no,,,no,,,yes,191.2,2530.459,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 304,b3,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,14,1m2,0,2,4,6,7.87,7,no,,,no,,,no,,,no,,,yes,191.2,3114.727,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 407,b4,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,14,1m2,0,0,0,0,7.87,4,no,,,no,,,no,,,no,,,yes,191.2,2933.026,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-107,b1,12,standard (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,18,1m2,2,4,0,6,7.87,2,no,,,no,,,no,,,no,,,yes,338.2,3942.464,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-202,b2,12,standard (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,4,4,7.87,1,no,,,no,,,no,,,no,,,yes,338.2,3644.691,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-314,b3,12,standard (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,0,9,9,7.87,7,no,,,no,,,no,,,no,,,yes,338.2,3653.736,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-403,b4,12,standard (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,0,4,4,7.87,4,no,,,no,,,no,,,no,,,yes,338.2,3905.685,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+107,b1,12,standard (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,18,1m2,2,4,0,6,7.87,2,no,,,no,,,yes,pre,std,no,,,yes,338.2,3942.464,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+202,b2,12,standard (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,4,4,7.87,1,no,,,no,,,yes,pre,std,no,,,yes,338.2,3644.691,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+314,b3,12,standard (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,0,9,9,7.87,7,no,,,no,,,yes,pre,std,no,,,yes,338.2,3653.736,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+403,b4,12,standard (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,0,4,4,7.87,4,no,,,no,,,yes,pre,std,no,,,yes,338.2,3905.685,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 108,b1,13,standard (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,18,1m2,0,0,2,2,7.87,2,no,,,no,,,no,,,no,,,yes,338.2,4233.467,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 205,b2,13,standard (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,15,1m2,2,4,4,10,7.87,1,no,,,no,,,no,,,no,,,yes,338.2,2949.111,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 312,b3,13,standard (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,0,0,7.87,7,no,,,no,,,no,,,no,,,yes,338.2,3686.652,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
@@ -167,14 +167,14 @@
 201,b2,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,18,1m2,0,0,4,4,7.87,1,no,,,no,,,no,,,no,,,yes,338.2,3899.11,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 315,b3,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,15,1m2,0,0,0,0,7.87,7,no,,,no,,,no,,,no,,,yes,338.2,2488.129,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 404,b4,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,16,1m2,0,2,14,16,7.87,4,no,,,no,,,no,,,no,,,yes,338.2,3077.696,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-104,b1,7,early (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,26,1m2,0,0,2,2,7.87,2,no,,,no,,,no,,,no,,,yes,321.8,4169.711,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-214,b2,7,early (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,25,1m2,0,0,0,0,7.87,1,no,,,no,,,no,,,no,,,yes,321.8,3772.369,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-306,b3,7,early (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,29,1m2,0,2,8,10,7.87,7,no,,,no,,,no,,,no,,,yes,321.8,3965.298,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-414,b4,7,early (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,24,1m2,0,0,2,2,7.87,4,no,,,no,,,no,,,no,,,yes,321.8,3406.862,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-105,b1,8,early (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,29,1m2,0,0,0,0,7.87,2,no,,,no,,,no,,,no,,,yes,321.8,3839.847,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-212,b2,8,early (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,28,1m2,0,2,0,2,7.87,1,no,,,no,,,no,,,no,,,yes,321.8,3390.709,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-309,b3,8,early (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,26,1m2,0,0,2,2,7.87,7,no,,,no,,,no,,,no,,,yes,321.8,3698.21,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-413,b4,8,early (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,24,1m2,0,0,2,2,7.87,4,no,,,no,,,no,,,no,,,yes,321.8,3283.425,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+104,b1,7,early (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,26,1m2,0,0,2,2,7.87,2,yes,pre,early,no,,,no,,,no,,,yes,321.8,4169.711,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+214,b2,7,early (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,25,1m2,0,0,0,0,7.87,1,yes,pre,early,no,,,no,,,no,,,yes,321.8,3772.369,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+306,b3,7,early (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,29,1m2,0,2,8,10,7.87,7,yes,pre,early,no,,,no,,,no,,,yes,321.8,3965.298,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+414,b4,7,early (1 DAP),boot,boot,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,24,1m2,0,0,2,2,7.87,4,yes,pre,early,no,,,no,,,no,,,yes,321.8,3406.862,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+105,b1,8,early (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,29,1m2,0,0,0,0,7.87,2,no,,,yes,pre,early,no,,,no,,,yes,321.8,3839.847,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+212,b2,8,early (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,28,1m2,0,2,0,2,7.87,1,no,,,yes,pre,early,no,,,no,,,yes,321.8,3390.709,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+309,b3,8,early (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,26,1m2,0,0,2,2,7.87,7,no,,,yes,pre,early,no,,,no,,,yes,321.8,3698.21,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+413,b4,8,early (1 DAP),anthesis,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,24,1m2,0,0,2,2,7.87,4,no,,,yes,pre,early,no,,,no,,,yes,321.8,3283.425,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 102,b1,10,early (1 DAP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,26,1m2,0,0,0,0,7.87,2,no,,,no,,,no,,,no,,,yes,321.8,4087.953,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 213,b2,10,early (1 DAP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,24,1m2,0,0,2,2,7.87,1,no,,,no,,,no,,,no,,,yes,321.8,4012.591,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 308,b3,10,early (1 DAP),anthesis/POST,anthesis,no,DE,6/20/23,DE23,2023,POST (-1 DAT),common ragweed,26,1m2,0,0,0,0,7.87,7,no,,,no,,,no,,,no,,,yes,321.8,4883.826,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
@@ -299,14 +299,14 @@
 208,b3,10,early (1 DAP),anthesis/POST,anthesis,no,PA,6/23/22,PA22,2022,POST (-1 DAT),waterhemp,14.5,1m2,0,0,0,0,28,25.75,no,,,no,,,no,,,no,,,yes,188.53,3698.75,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 410,b4,10,early (1 DAP),anthesis/POST,anthesis,no,PA,6/23/22,PA22,2022,POST (-1 DAT),waterhemp,17.25,1m2,0,11,23.5,34.5,28,20.25,no,,,no,,,no,,,no,,,yes,269.31,4707.5,yes,13,12,16,10,10,11,11,12,10,10,11,11,12,12,10,0
 506,b2,10,early (1 DAP),anthesis/POST,anthesis,no,PA,6/23/22,PA22,2022,POST (-1 DAT),waterhemp,13.75,1m2,0,0,0,0,28,43.75,no,,,no,,,no,,,no,,,yes,193.39,4371.25,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-204,b2,1,standard (14 DPP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,0,0,1.5,0.5,no,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,176.44,4801.531097,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-302,b1,1,standard (14 DPP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12,1m2,0,0,1,1,1.5,0.5,no,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,176.44,5049.30909,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-307,b3,1,standard (14 DPP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,13.5,1m2,0,0,3,3,1.5,4.5,no,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,176.44,4262.679849,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-512,b4,1,standard (14 DPP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12,1m2,0,0,1,1,1.5,0.5,no,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,176.44,6158.563252,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-102,b1,4,standard (14 DPP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,14,1m2,0,0,0,0,1.5,0.5,no,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,208.02,4561.37478,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-207,b3,4,standard (14 DPP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,6,6,1.5,4.5,no,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,208.02,4561.374783,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-404,b2,4,standard (14 DPP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,15,1m2,0,0,1,1,1.5,0.5,no,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,208.02,4580.61899,yes,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-412,b4,4,standard (14 DPP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,14.5,1m2,0,0,0,0,1.5,0.5,no,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,208.02,5047.441504,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,b2,1,standard (14 DPP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,0,0,1.5,0.5,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,176.44,4801.531097,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,b1,1,standard (14 DPP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12,1m2,0,0,1,1,1.5,0.5,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,176.44,5049.30909,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,b3,1,standard (14 DPP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,13.5,1m2,0,0,3,3,1.5,4.5,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,176.44,4262.679849,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,b4,1,standard (14 DPP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12,1m2,0,0,1,1,1.5,0.5,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,176.44,6158.563252,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,b1,4,standard (14 DPP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,14,1m2,0,0,0,0,1.5,0.5,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,208.02,4561.37478,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,b3,4,standard (14 DPP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,6,6,1.5,4.5,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,208.02,4561.374783,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,b2,4,standard (14 DPP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,15,1m2,0,0,1,1,1.5,0.5,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,208.02,4580.61899,yes,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,b4,4,standard (14 DPP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,14.5,1m2,0,0,0,0,1.5,0.5,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,yes,208.02,5047.441504,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 101,b1,11,standard (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10,1m2,0,0,32,32,1.5,0.5,no,,,no,,,yes,utc,late,yes,utc,late,yes,410.2,4468.067227,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 109,b3,11,standard (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,9.5,1m2,0,5,7,12,1.5,4.5,no,,,no,,,yes,utc,late,yes,utc,late,yes,410.2,4791.044142,yes,13,12,11,13,13,0,0,0,0,0,0,0,0,0,0,0
 305,b2,11,standard (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11,1m2,0,0,16,16,1.5,0.5,no,,,no,,,yes,utc,late,yes,utc,late,yes,410.2,4865.406798,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -315,46 +315,46 @@
 301,b1,14,standard (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10.5,1m2,0,0,0,0,1.5,0.5,no,,,no,,,yes,utc,late,yes,utc,late,yes,420.89,4509.534138,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 405,b2,14,standard (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11,1m2,0,0,6,6,1.5,0.5,no,,,no,,,yes,utc,late,yes,utc,late,yes,420.89,4509.142909,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 509,b3,14,standard (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10.5,1m2,0,0,9,9,1.5,4.5,no,,,no,,,yes,utc,late,yes,utc,late,yes,420.89,4856.841237,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-110,b4,6,early (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16,1m2,0,0,5,5,1.5,0.5,no,utc,early,yes,utc,early,no,,,no,,,yes,149.27,5072.231298,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-403,b1,6,early (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16.5,1m2,0,2,4,6,1.5,0.5,no,utc,early,yes,utc,early,no,,,no,,,yes,149.27,5282.168815,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-406,b2,6,early (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17.5,1m2,0,0,0,0,1.5,0.5,no,utc,early,yes,utc,early,no,,,no,,,yes,149.27,5240.426138,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-408,b3,6,early (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,20.5,1m2,0,4,2,6,1.5,4.5,no,utc,early,yes,utc,early,no,,,no,,,yes,149.27,5025.093248,yes,11,16,19,25,0,0,0,0,0,0,0,0,0,0,0,0
-306,b2,9,early (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17.5,1m2,0,2,5,7,1.5,0.5,no,utc,early,yes,utc,early,no,,,no,,,yes,214.4,5023.468919,yes,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-310,b4,9,early (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,14,1m2,0,2,4,6,1.5,0.5,no,utc,early,yes,utc,early,no,,,no,,,yes,214.4,5307.32966,yes,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-503,b1,9,early (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16,1m2,0,2,4,6,1.5,0.5,no,utc,early,yes,utc,early,no,,,no,,,yes,214.4,5936.893349,yes,12,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-508,b3,9,early (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,22,1m2,0,0,10,10,1.5,4.5,no,utc,early,yes,utc,early,no,,,no,,,yes,214.4,5219.573296,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-312,b4,2,standard (14 DPP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,3,3,1.5,0.5,no,,,no,,,no,,,no,,,yes,162.77,4892.719963,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-402,b1,2,standard (14 DPP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,14.5,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,162.77,4798.710661,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-407,b3,2,standard (14 DPP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10.5,1m2,0,0,0,0,1.5,4.5,no,,,no,,,no,,,no,,,yes,162.77,4243.273097,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-504,b2,2,standard (14 DPP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,162.77,4906.289668,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104,b2,3,standard (14 DPP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,1,1,1.5,0.5,no,,,no,,,no,,,no,,,yes,186.02,4608.446694,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-202,b1,3,standard (14 DPP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11.5,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,186.02,4480.783851,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-212,b4,3,standard (14 DPP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,186.02,4568.907903,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-507,b3,3,standard (14 DPP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,13,1m2,0,0,2,2,1.5,4.5,no,,,no,,,no,,,no,,,yes,186.02,5026.645833,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,b4,6,early (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16,1m2,0,0,5,5,1.5,0.5,yes,utc,early,yes,utc,early,no,,,no,,,yes,149.27,5072.231298,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,b1,6,early (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16.5,1m2,0,2,4,6,1.5,0.5,yes,utc,early,yes,utc,early,no,,,no,,,yes,149.27,5282.168815,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,b2,6,early (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17.5,1m2,0,0,0,0,1.5,0.5,yes,utc,early,yes,utc,early,no,,,no,,,yes,149.27,5240.426138,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,b3,6,early (1 DAP),no residual,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,20.5,1m2,0,4,2,6,1.5,4.5,yes,utc,early,yes,utc,early,no,,,no,,,yes,149.27,5025.093248,yes,11,16,19,25,0,0,0,0,0,0,0,0,0,0,0,0
+306,b2,9,early (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17.5,1m2,0,2,5,7,1.5,0.5,yes,utc,early,yes,utc,early,no,,,no,,,yes,214.4,5023.468919,yes,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,b4,9,early (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,14,1m2,0,2,4,6,1.5,0.5,yes,utc,early,yes,utc,early,no,,,no,,,yes,214.4,5307.32966,yes,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,b1,9,early (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16,1m2,0,2,4,6,1.5,0.5,yes,utc,early,yes,utc,early,no,,,no,,,yes,214.4,5936.893349,yes,12,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+508,b3,9,early (1 DAP),POST,no residual,yes,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,22,1m2,0,0,10,10,1.5,4.5,yes,utc,early,yes,utc,early,no,,,no,,,yes,214.4,5219.573296,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,b4,2,standard (14 DPP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,3,3,1.5,0.5,yes,pre,std,no,,,yes,pre,std,no,,,yes,162.77,4892.719963,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,b1,2,standard (14 DPP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,14.5,1m2,0,0,0,0,1.5,0.5,yes,pre,std,no,,,yes,pre,std,no,,,yes,162.77,4798.710661,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,b3,2,standard (14 DPP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10.5,1m2,0,0,0,0,1.5,4.5,yes,pre,std,no,,,yes,pre,std,no,,,yes,162.77,4243.273097,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,b2,2,standard (14 DPP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12,1m2,0,0,0,0,1.5,0.5,yes,pre,std,no,,,yes,pre,std,no,,,yes,162.77,4906.289668,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,b2,3,standard (14 DPP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,1,1,1.5,0.5,no,,,yes,pre,std,no,,,yes,pre,std,yes,186.02,4608.446694,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,b1,3,standard (14 DPP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11.5,1m2,0,0,0,0,1.5,0.5,no,,,yes,pre,std,no,,,yes,pre,std,yes,186.02,4480.783851,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,b4,3,standard (14 DPP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,0,0,1.5,0.5,no,,,yes,pre,std,no,,,yes,pre,std,yes,186.02,4568.907903,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,b3,3,standard (14 DPP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,13,1m2,0,0,2,2,1.5,4.5,no,,,yes,pre,std,no,,,yes,pre,std,yes,186.02,5026.645833,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 107,b3,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,0,0,1.5,4.5,no,,,no,,,no,,,no,,,yes,230.28,5520.240069,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 112,b4,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12.5,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,230.28,4307.57702,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 304,b2,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,12,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,230.28,4854.060036,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 502,b1,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,13,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,230.28,5263.327047,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-209,b3,12,standard (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11.5,1m2,0,1,10,11,1.5,4.5,no,,,no,,,no,,,no,,,yes,501.34,4659.566536,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-211,b4,12,standard (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11.5,1m2,0,0,7,7,1.5,0.5,no,,,no,,,no,,,no,,,yes,501.34,4401.047121,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-401,b1,12,standard (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11.5,1m2,0,0,5,5,1.5,0.5,no,,,no,,,no,,,no,,,yes,501.34,4171.066124,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-505,b2,12,standard (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,6,1m2,0,0,3,3,1.5,0.5,no,,,no,,,no,,,no,,,yes,501.34,4419.234225,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-205,b2,13,standard (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10.5,1m2,0,0,8,8,1.5,0.5,no,,,no,,,no,,,no,,,yes,288.63,4198.175267,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-311,b4,13,standard (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10.5,1m2,0,0,2,2,1.5,0.5,no,,,no,,,no,,,no,,,yes,288.63,4525.540897,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-409,b3,13,standard (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,9.5,1m2,0,0,4,4,1.5,4.5,no,,,no,,,no,,,no,,,yes,288.63,4303.572808,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-501,b1,13,standard (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,8.5,1m2,0,0,5,5,1.5,0.5,no,,,no,,,no,,,no,,,yes,288.63,4353.590707,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,b3,12,standard (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11.5,1m2,0,1,10,11,1.5,4.5,no,,,no,,,yes,pre,std,no,,,yes,501.34,4659.566536,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,b4,12,standard (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11.5,1m2,0,0,7,7,1.5,0.5,no,,,no,,,yes,pre,std,no,,,yes,501.34,4401.047121,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,b1,12,standard (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11.5,1m2,0,0,5,5,1.5,0.5,no,,,no,,,yes,pre,std,no,,,yes,501.34,4171.066124,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,b2,12,standard (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,6,1m2,0,0,3,3,1.5,0.5,no,,,no,,,yes,pre,std,no,,,yes,501.34,4419.234225,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,b2,13,standard (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10.5,1m2,0,0,8,8,1.5,0.5,no,,,no,,,no,,,yes,pre,late,yes,288.63,4198.175267,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,b4,13,standard (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10.5,1m2,0,0,2,2,1.5,0.5,no,,,no,,,no,,,yes,pre,late,yes,288.63,4525.540897,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,b3,13,standard (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,9.5,1m2,0,0,4,4,1.5,4.5,no,,,no,,,no,,,yes,pre,late,yes,288.63,4303.572808,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,b1,13,standard (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,8.5,1m2,0,0,5,5,1.5,0.5,no,,,no,,,no,,,yes,pre,late,yes,288.63,4353.590707,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 105,b2,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10,1m2,0,0,10,10,1.5,0.5,no,,,no,,,no,,,no,,,yes,450.06,4556.71927,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 201,b1,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,11,1m2,0,0,3,3,1.5,0.5,no,,,no,,,no,,,no,,,yes,450.06,4637.770933,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 309,b3,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,10.5,1m2,1,1,6,8,1.5,4.5,no,,,no,,,no,,,no,,,yes,450.06,4234.777038,yes,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 511,b4,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,9,1m2,0,0,6,6,1.5,0.5,no,,,no,,,no,,,no,,,yes,450.06,4118.244604,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-106,b2,7,early (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17.5,1m2,0,0,4,4,1.5,0.5,no,,,no,,,no,,,no,,,yes,183.83,5125.399207,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-203,b1,7,early (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,15.5,1m2,0,1,0,1,1.5,0.5,no,,,no,,,no,,,no,,,yes,183.83,5264.557905,yes,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-308,b3,7,early (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,18,1m2,1,0,7,8,1.5,4.5,no,,,no,,,no,,,no,,,yes,183.83,4459.026362,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-510,b4,7,early (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16,1m2,0,1,5,6,1.5,0.5,no,,,no,,,no,,,no,,,yes,183.83,5940.340424,yes,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-108,b3,8,early (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,0,0,1.5,4.5,no,,,no,,,no,,,no,,,yes,161.38,4648.920399,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-206,b2,8,early (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,161.38,5485.194246,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-210,b4,8,early (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,18,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,161.38,4808.360229,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-303,b1,8,early (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16.5,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,161.38,4928.520219,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,b2,7,early (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17.5,1m2,0,0,4,4,1.5,0.5,yes,pre,early,no,,,no,,,no,,,yes,183.83,5125.399207,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,b1,7,early (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,15.5,1m2,0,1,0,1,1.5,0.5,yes,pre,early,no,,,no,,,no,,,yes,183.83,5264.557905,yes,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,b3,7,early (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,18,1m2,1,0,7,8,1.5,4.5,yes,pre,early,no,,,no,,,no,,,yes,183.83,4459.026362,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,b4,7,early (1 DAP),boot,boot,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16,1m2,0,1,5,6,1.5,0.5,yes,pre,early,no,,,no,,,no,,,yes,183.83,5940.340424,yes,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,b3,8,early (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,0,0,1.5,4.5,no,,,yes,pre,early,no,,,no,,,yes,161.38,4648.920399,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,b2,8,early (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,0,0,1.5,0.5,no,,,yes,pre,early,no,,,no,,,yes,161.38,5485.194246,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,b4,8,early (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,18,1m2,0,0,0,0,1.5,0.5,no,,,yes,pre,early,no,,,no,,,yes,161.38,4808.360229,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,b1,8,early (1 DAP),anthesis,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,16.5,1m2,0,0,0,0,1.5,0.5,no,,,yes,pre,early,no,,,no,,,yes,161.38,4928.520219,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 103,b1,10,early (1 DAP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,17,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,155.26,5173.07085,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 208,b3,10,early (1 DAP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,18,1m2,0,0,0,0,1.5,4.5,no,,,no,,,no,,,no,,,yes,155.26,5173.070853,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 410,b4,10,early (1 DAP),anthesis/POST,anthesis,no,PA,6/28/23,PA23,2023,POST (-1 DAT),common ragweed,19,1m2,0,0,0,0,1.5,0.5,no,,,no,,,no,,,no,,,yes,155.26,5349.413121,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -539,62 +539,62 @@
 208,b2,10,early (1 DAP),anthesis/POST,anthesis,no,VA,6/1/23,VA23,2023,POST (-1 DAT),palmer amaranth,15.24,1m2,0,0,16.2,16.2,426,111.24,no,,,no,,,no,,,no,,,yes,70,1076.109028,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,
 314,b3,10,early (1 DAP),anthesis/POST,anthesis,no,VA,6/1/23,VA23,2023,POST (-1 DAT),palmer amaranth,10.16,1m2,0,0,10.8,10.8,426,121.5,no,,,no,,,no,,,no,,,yes,41,1349.483224,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,
 410,b4,10,early (1 DAP),anthesis/POST,anthesis,no,VA,6/1/23,VA23,2023,POST (-1 DAT),palmer amaranth,15.24,1m2,0,0,56.7,56.7,426,133.74,no,,,no,,,no,,,no,,,yes,52,2206.313303,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,
-103,b1,1,standard (14 DPP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,25,1m2,0,0,4,4,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-209,b2,1,standard (14 DPP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,20,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-301,b3,1,standard (14 DPP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,33,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-412,b4,1,standard (14 DPP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,30,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-102,b1,4,standard (14 DPP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,23,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-207,b2,4,standard (14 DPP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,22,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-302,b3,4,standard (14 DPP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,19,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-411,b4,4,standard (14 DPP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,29,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-113,b1,11,standard (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,37,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-201,b2,11,standard (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,30,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-306,b3,11,standard (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,36,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-406,b4,11,standard (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,36,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-111,b1,14,standard (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,35,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-202,b2,14,standard (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,31,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-307,b3,14,standard (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,26,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-409,b4,14,standard (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,29,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-110,b1,6,early (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,35,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-215,b2,6,early (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,35,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-315,b3,6,early (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,33,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-405,b4,6,early (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,38,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-106,b1,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,32,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-214,b2,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-311,b3,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,37,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-402,b4,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,35,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-105,b1,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,24,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-206,b2,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,31,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-305,b3,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,23,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-415,b4,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,31,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-104,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,25,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-208,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-304,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,26,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-414,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,21,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+103,b1,1,standard (14 DPP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,25,1m2,0,0,4,4,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+209,b2,1,standard (14 DPP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,20,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+301,b3,1,standard (14 DPP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,33,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+412,b4,1,standard (14 DPP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,30,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+102,b1,4,standard (14 DPP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,23,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+207,b2,4,standard (14 DPP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,22,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+302,b3,4,standard (14 DPP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,19,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+411,b4,4,standard (14 DPP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,29,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+113,b1,11,standard (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,37,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+201,b2,11,standard (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,30,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+306,b3,11,standard (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,36,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+406,b4,11,standard (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,36,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+111,b1,14,standard (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,35,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+202,b2,14,standard (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,31,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+307,b3,14,standard (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,26,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+409,b4,14,standard (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,29,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+110,b1,6,early (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,35,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+215,b2,6,early (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,35,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+315,b3,6,early (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,33,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+405,b4,6,early (1 DAP),no residual,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,38,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+106,b1,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,32,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+214,b2,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+311,b3,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,37,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+402,b4,9,early (1 DAP),POST,no residual,yes,DE,na,DE22,2022,POST (28 DAT),common ragweed,35,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+105,b1,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,24,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+206,b2,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,31,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+305,b3,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,23,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+415,b4,2,standard (14 DPP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,31,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+104,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,25,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+208,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+304,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,26,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+414,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,21,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 101,b1,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,28,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 210,b2,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,25,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 303,b3,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,26,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 413,b4,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,23,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-115,b1,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,31,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-205,b2,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,28,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-310,b3,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,33,1m2,0,0,4,4,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-410,b4,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,28,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-114,b1,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,33,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-204,b2,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,28,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-308,b3,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,32,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-407,b4,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+115,b1,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,31,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+205,b2,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,28,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+310,b3,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,33,1m2,0,0,4,4,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+410,b4,12,standard (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,28,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+114,b1,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,33,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+204,b2,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,28,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+308,b3,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,32,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+407,b4,13,standard (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 112,b1,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,36,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 203,b2,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,23,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 309,b3,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,27,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 408,b4,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,31,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-109,b1,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,40,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-212,b2,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-314,b3,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,36,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-401,b4,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,41,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-107,b1,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,30,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-211,b2,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,36,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-312,b3,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-403,b4,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,32,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+109,b1,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,40,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+212,b2,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+314,b3,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,36,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+401,b4,7,early (1 DAP),boot,boot,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,41,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+107,b1,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,30,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+211,b2,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,36,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+312,b3,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,34,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+403,b4,8,early (1 DAP),anthesis,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,32,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 108,b1,10,early (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,28,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 213,b2,10,early (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,35,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 313,b3,10,early (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),common ragweed,26,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
@@ -659,62 +659,62 @@
 213,b2,10,early (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),palmer amaranth,38,1m2,0,0,0,0,30,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 313,b3,10,early (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),palmer amaranth,39,1m2,0,0,0,0,30,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 404,b4,10,early (1 DAP),anthesis/POST,anthesis,no,DE,na,DE22,2022,POST (28 DAT),palmer amaranth,41,1m2,0,0,0,0,30,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-115,b1,1,standard (14 DPP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,57,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-207,b2,1,standard (14 DPP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,90,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-303,b3,1,standard (14 DPP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,91,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-409,b4,1,standard (14 DPP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,69,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-114,b1,4,standard (14 DPP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,67,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-209,b2,4,standard (14 DPP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,76,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-301,b3,4,standard (14 DPP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,89,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-408,b4,4,standard (14 DPP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,84,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-106,b1,11,standard (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-204,b2,11,standard (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,83,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-311,b3,11,standard (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,85,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-405,b4,11,standard (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,69,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-110,b1,14,standard (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,61,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-203,b2,14,standard (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,75,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-313,b3,14,standard (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,94,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-401,b4,14,standard (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,84,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-103,b1,6,early (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-211,b2,6,early (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,107,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-310,b3,6,early (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,85,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-415,b4,6,early (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-101,b1,9,early (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,97,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-215,b2,9,early (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,76,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-307,b3,9,early (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,102,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-412,b4,9,early (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,97,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-111,b1,2,standard (14 DPP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,90,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-208,b2,2,standard (14 DPP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,77,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-302,b3,2,standard (14 DPP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-410,b4,2,standard (14 DPP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,68,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-112,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,70,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-206,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,86,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-305,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,64,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-406,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,80,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+115,b1,1,standard (14 DPP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,57,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+207,b2,1,standard (14 DPP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,90,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+303,b3,1,standard (14 DPP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,91,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+409,b4,1,standard (14 DPP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,69,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+114,b1,4,standard (14 DPP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,67,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+209,b2,4,standard (14 DPP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,76,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+301,b3,4,standard (14 DPP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,89,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+408,b4,4,standard (14 DPP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,84,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+106,b1,11,standard (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+204,b2,11,standard (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,83,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+311,b3,11,standard (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,85,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+405,b4,11,standard (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,69,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+110,b1,14,standard (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,61,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+203,b2,14,standard (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,75,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+313,b3,14,standard (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,94,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+401,b4,14,standard (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,84,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+103,b1,6,early (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+211,b2,6,early (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,107,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+310,b3,6,early (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,85,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+415,b4,6,early (1 DAP),no residual,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+101,b1,9,early (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,97,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+215,b2,9,early (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,76,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+307,b3,9,early (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,102,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+412,b4,9,early (1 DAP),POST,no residual,yes,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,97,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+111,b1,2,standard (14 DPP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,90,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+208,b2,2,standard (14 DPP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,77,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+302,b3,2,standard (14 DPP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+410,b4,2,standard (14 DPP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,68,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+112,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,70,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+206,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,86,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+305,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,64,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+406,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,80,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 113,b1,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,76,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 210,b2,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,59,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 304,b3,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,86,1m2,0,2,0,2,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 407,b4,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,79,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-107,b1,12,standard (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-202,b2,12,standard (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,88,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-314,b3,12,standard (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,96,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-403,b4,12,standard (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,83,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-108,b1,13,standard (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,86,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-205,b2,13,standard (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,74,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-312,b3,13,standard (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,92,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-402,b4,13,standard (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,91,1m2,2,2,0,4,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+107,b1,12,standard (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+202,b2,12,standard (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,88,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+314,b3,12,standard (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,96,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+403,b4,12,standard (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,83,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+108,b1,13,standard (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,86,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+205,b2,13,standard (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,74,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+312,b3,13,standard (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,92,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+402,b4,13,standard (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,91,1m2,2,2,0,4,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 109,b1,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,73,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 201,b2,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 315,b3,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,68,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 404,b4,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,71,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-104,b1,7,early (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,100,1m2,2,0,0,2,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-214,b2,7,early (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,94,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-306,b3,7,early (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,95,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-414,b4,7,early (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,90,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-105,b1,8,early (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-212,b2,8,early (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,98,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-309,b3,8,early (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,82,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-413,b4,8,early (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,105,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+104,b1,7,early (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,100,1m2,2,0,0,2,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+214,b2,7,early (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,94,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+306,b3,7,early (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,95,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+414,b4,7,early (1 DAP),boot,boot,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,90,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+105,b1,8,early (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,93,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+212,b2,8,early (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,98,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+309,b3,8,early (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,82,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+413,b4,8,early (1 DAP),anthesis,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,105,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 102,b1,10,early (1 DAP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,88,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 213,b2,10,early (1 DAP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,92,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 308,b3,10,early (1 DAP),anthesis/POST,anthesis,no,DE,7/25/23,DE23,2023,POST (28 DAT),common ragweed,96,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
@@ -839,62 +839,62 @@
 208,b3,10,early (1 DAP),anthesis/POST,anthesis,no,PA,7/11/22,PA22,2022,POST (28 DAT),waterhemp,56.5,1m2,0,0,0,0,32.6,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 410,b4,10,early (1 DAP),anthesis/POST,anthesis,no,PA,7/11/22,PA22,2022,POST (28 DAT),waterhemp,65,1m2,0,0,0,0,32.6,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 506,b2,10,early (1 DAP),anthesis/POST,anthesis,no,PA,7/11/22,PA22,2022,POST (28 DAT),waterhemp,60.5,1m2,0,0,0,0,32.6,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-204,b2,1,standard (14 DPP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,61,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-302,b1,1,standard (14 DPP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49.5,1m2,0,0,1,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-307,b3,1,standard (14 DPP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,57.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-512,b4,1,standard (14 DPP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58,1m2,0,1,0,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-102,b1,4,standard (14 DPP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-207,b3,4,standard (14 DPP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-404,b2,4,standard (14 DPP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49.5,1m2,0,0,4,4,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-412,b4,4,standard (14 DPP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,55.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-101,b1,11,standard (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-109,b3,11,standard (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,4,4,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-305,b2,11,standard (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-411,b4,11,standard (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,48.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-111,b4,14,standard (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,39,1m2,0,0,1,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-301,b1,14,standard (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,43,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-405,b2,14,standard (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,47.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-509,b3,14,standard (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-110,b4,6,early (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,51.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-403,b1,6,early (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,55,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-406,b2,6,early (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,62,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-408,b3,6,early (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,64.5,1m2,0,1,2,3,,na,no,,,no,,,no,,,no,,,no,na,na,yes,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-306,b2,9,early (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,59.5,1m2,0,1,0,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-310,b4,9,early (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,57.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-503,b1,9,early (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58.5,1m2,0,0,14,14,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-508,b3,9,early (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,62,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-312,b4,2,standard (14 DPP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58,1m2,0,1,0,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-402,b1,2,standard (14 DPP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-407,b3,2,standard (14 DPP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,48,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-504,b2,2,standard (14 DPP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,53.5,1m2,0,1,16,17,,na,no,,,no,,,no,,,no,,,no,na,na,yes,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104,b2,3,standard (14 DPP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,18.5,1m2,0,0,2,2,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-202,b1,3,standard (14 DPP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,56.5,1m2,0,0,4,4,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-212,b4,3,standard (14 DPP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-507,b3,3,standard (14 DPP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,2,2,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,b2,1,standard (14 DPP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,61,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,b1,1,standard (14 DPP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49.5,1m2,0,0,1,1,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,b3,1,standard (14 DPP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,57.5,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,b4,1,standard (14 DPP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58,1m2,0,1,0,1,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,b1,4,standard (14 DPP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,b3,4,standard (14 DPP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58.5,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,b2,4,standard (14 DPP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49.5,1m2,0,0,4,4,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,b4,4,standard (14 DPP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,55.5,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,b1,11,standard (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50.5,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,b3,11,standard (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,4,4,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,b2,11,standard (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,b4,11,standard (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,48.5,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,b4,14,standard (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,39,1m2,0,0,1,1,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,b1,14,standard (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,43,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,b2,14,standard (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,47.5,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,b3,14,standard (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,b4,6,early (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,51.5,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,b1,6,early (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,55,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,b2,6,early (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,62,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,b3,6,early (1 DAP),no residual,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,64.5,1m2,0,1,2,3,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,b2,9,early (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,59.5,1m2,0,1,0,1,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,b4,9,early (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,57.5,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,b1,9,early (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58.5,1m2,0,0,14,14,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+508,b3,9,early (1 DAP),POST,no residual,yes,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,62,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,b4,2,standard (14 DPP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58,1m2,0,1,0,1,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,yes,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,b1,2,standard (14 DPP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49.5,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,b3,2,standard (14 DPP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,48,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,b2,2,standard (14 DPP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,53.5,1m2,0,1,16,17,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,yes,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,b2,3,standard (14 DPP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,18.5,1m2,0,0,2,2,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,b1,3,standard (14 DPP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,56.5,1m2,0,0,4,4,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,b4,3,standard (14 DPP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58.5,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,b3,3,standard (14 DPP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,2,2,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 107,b3,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,52,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 112,b4,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 304,b2,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,51,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 502,b1,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-209,b3,12,standard (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-211,b4,12,standard (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,45,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-401,b1,12,standard (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,54.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-505,b2,12,standard (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,47.5,1m2,0,0,3,3,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-205,b2,13,standard (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,45,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-311,b4,13,standard (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,33,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-409,b3,13,standard (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,45.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-501,b1,13,standard (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,41.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,b3,12,standard (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49.5,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,b4,12,standard (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,45,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,b1,12,standard (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,54.5,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,b2,12,standard (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,47.5,1m2,0,0,3,3,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,b2,13,standard (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,45,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,b4,13,standard (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,33,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,b3,13,standard (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,45.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,b1,13,standard (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,41.5,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 105,b2,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,15.5,1m2,0,0,3,3,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 201,b1,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,45,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 309,b3,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 511,b4,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,50,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-106,b2,7,early (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,59,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-203,b1,7,early (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,60,1m2,0,0,8,8,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-308,b3,7,early (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,62.5,1m2,0,0,1,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-510,b4,7,early (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58.5,1m2,0,0,1,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-108,b3,8,early (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-206,b2,8,early (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,66.5,1m2,0,0,1,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-210,b4,8,early (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,59,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-303,b1,8,early (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,55,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,b2,7,early (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,59,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,b1,7,early (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,60,1m2,0,0,8,8,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,b3,7,early (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,62.5,1m2,0,0,1,1,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,b4,7,early (1 DAP),boot,boot,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,58.5,1m2,0,0,1,1,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,b3,8,early (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,49,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,b2,8,early (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,66.5,1m2,0,0,1,1,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,b4,8,early (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,59,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,b1,8,early (1 DAP),anthesis,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,55,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 103,b1,10,early (1 DAP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,53,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 208,b3,10,early (1 DAP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,60.5,1m2,0,0,1,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 410,b4,10,early (1 DAP),anthesis/POST,anthesis,no,PA,7/28/23,PA23,2023,POST (28 DAT),common ragweed,55,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1079,62 +1079,62 @@
 208,b2,10,early (1 DAP),anthesis/POST,anthesis,no,VA,6/27/23,VA23,2023,POST (28 DAT),palmer amaranth,35.56,1m2,0,0,0,0,218,7.92,no,,,no,,,no,,,no,,,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,
 314,b3,10,early (1 DAP),anthesis/POST,anthesis,no,VA,6/27/23,VA23,2023,POST (28 DAT),palmer amaranth,22.86,1m2,0,0,0,0,218,5.04,no,,,no,,,no,,,no,,,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,
 410,b4,10,early (1 DAP),anthesis/POST,anthesis,no,VA,6/27/23,VA23,2023,POST (28 DAT),palmer amaranth,33.02,1m2,2.7,0,0,2.7,218,2.88,no,,,no,,,no,,,no,,,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,
-115,b1,1,standard (14 DPP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,57,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-207,b2,1,standard (14 DPP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,90,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-303,b3,1,standard (14 DPP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,91,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-409,b4,1,standard (14 DPP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,69,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-114,b1,4,standard (14 DPP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,67,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-209,b2,4,standard (14 DPP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,76,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-301,b3,4,standard (14 DPP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,89,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-408,b4,4,standard (14 DPP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,84,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-106,b1,11,standard (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-204,b2,11,standard (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,83,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-311,b3,11,standard (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,85,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-405,b4,11,standard (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,69,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-110,b1,14,standard (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,61,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-203,b2,14,standard (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,75,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-313,b3,14,standard (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,94,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-401,b4,14,standard (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,84,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-103,b1,6,early (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-211,b2,6,early (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,107,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-310,b3,6,early (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,85,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-415,b4,6,early (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-101,b1,9,early (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,97,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-215,b2,9,early (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,76,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-307,b3,9,early (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,102,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-412,b4,9,early (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,97,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-111,b1,2,standard (14 DPP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,90,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-208,b2,2,standard (14 DPP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,77,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-302,b3,2,standard (14 DPP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-410,b4,2,standard (14 DPP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,68,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-112,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,70,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-206,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,86,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-305,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,64,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-406,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,80,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+115,b1,1,standard (14 DPP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,57,1m2,0,0,0,0,,0,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+207,b2,1,standard (14 DPP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,90,1m2,0,0,0,0,,0,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+303,b3,1,standard (14 DPP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,91,1m2,0,0,0,0,,0,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+409,b4,1,standard (14 DPP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,69,1m2,0,0,0,0,,0,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+114,b1,4,standard (14 DPP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,67,1m2,0,0,0,0,,0,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+209,b2,4,standard (14 DPP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,76,1m2,0,0,0,0,,0,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+301,b3,4,standard (14 DPP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,89,1m2,0,0,0,0,,0,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+408,b4,4,standard (14 DPP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,84,1m2,0,0,0,0,,0,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+106,b1,11,standard (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+204,b2,11,standard (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,83,1m2,0,0,0,0,,0,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+311,b3,11,standard (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,85,1m2,0,0,0,0,,0,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+405,b4,11,standard (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,69,1m2,0,0,0,0,,0,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+110,b1,14,standard (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,61,1m2,0,0,0,0,,0,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+203,b2,14,standard (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,75,1m2,0,0,0,0,,0,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+313,b3,14,standard (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,94,1m2,0,0,0,0,,0,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+401,b4,14,standard (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,84,1m2,0,0,0,0,,0,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+103,b1,6,early (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+211,b2,6,early (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,107,1m2,0,0,0,0,,0,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+310,b3,6,early (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,85,1m2,0,0,0,0,,0,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+415,b4,6,early (1 DAP),no residual,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+101,b1,9,early (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,97,1m2,0,0,0,0,,0,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+215,b2,9,early (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,76,1m2,0,0,0,0,,0,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+307,b3,9,early (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,102,1m2,0,0,0,0,,0,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+412,b4,9,early (1 DAP),POST,no residual,yes,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,97,1m2,0,0,0,0,,0,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+111,b1,2,standard (14 DPP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,90,1m2,0,0,0,0,,0,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+208,b2,2,standard (14 DPP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,77,1m2,0,0,0,0,,0,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+302,b3,2,standard (14 DPP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+410,b4,2,standard (14 DPP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,68,1m2,0,0,0,0,,0,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+112,b1,3,standard (14 DPP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,70,1m2,0,0,0,0,,0,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+206,b2,3,standard (14 DPP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,86,1m2,0,0,0,0,,0,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+305,b3,3,standard (14 DPP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,64,1m2,0,0,0,0,,0,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+406,b4,3,standard (14 DPP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,80,1m2,0,0,0,0,,0,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 113,b1,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,76,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 210,b2,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,59,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 304,b3,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,86,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 407,b4,5,standard (14 DPP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,79,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-107,b1,12,standard (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-202,b2,12,standard (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,88,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-314,b3,12,standard (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,96,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-403,b4,12,standard (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,83,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-108,b1,13,standard (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,86,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-205,b2,13,standard (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,74,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-312,b3,13,standard (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,92,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-402,b4,13,standard (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,91,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+107,b1,12,standard (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+202,b2,12,standard (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,88,1m2,0,0,0,0,,0,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+314,b3,12,standard (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,96,1m2,0,0,0,0,,0,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+403,b4,12,standard (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,83,1m2,0,0,0,0,,0,no,,,no,,,yes,pre,std,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+108,b1,13,standard (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,86,1m2,0,0,0,0,,0,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+205,b2,13,standard (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,74,1m2,0,0,0,0,,0,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+312,b3,13,standard (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,92,1m2,0,0,0,0,,0,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+402,b4,13,standard (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,91,1m2,0,0,0,0,,0,no,,,no,,,no,,,yes,pre,late,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 109,b1,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,73,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 201,b2,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 315,b3,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,68,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 404,b4,15,standard (1 DAP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,71,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-104,b1,7,early (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,100,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-214,b2,7,early (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,94,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-306,b3,7,early (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,95,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-414,b4,7,early (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,90,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-105,b1,8,early (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-212,b2,8,early (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,98,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-309,b3,8,early (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,82,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-413,b4,8,early (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,105,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+104,b1,7,early (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,100,1m2,0,0,0,0,,0,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+214,b2,7,early (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,94,1m2,0,0,0,0,,0,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+306,b3,7,early (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,95,1m2,0,0,0,0,,0,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+414,b4,7,early (1 DAP),boot,boot,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,90,1m2,0,0,0,0,,0,yes,pre,early,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+105,b1,8,early (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,93,1m2,0,0,0,0,,0,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+212,b2,8,early (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,98,1m2,0,0,0,0,,0,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+309,b3,8,early (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,82,1m2,0,0,0,0,,0,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
+413,b4,8,early (1 DAP),anthesis,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,105,1m2,0,0,0,0,,0,no,,,yes,pre,early,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 102,b1,10,early (1 DAP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,88,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 213,b2,10,early (1 DAP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,92,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 308,b3,10,early (1 DAP),anthesis/POST,anthesis,no,DE,9/28/23,DE23,2023,Soybean maturity,commonragweed,96,1m2,0,0,0,0,,0,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
@@ -1259,62 +1259,62 @@
 208,b3,10,early (1 DAP),anthesis/POST,anthesis,no,PA,7/11/22,PA22,2022,Soybean maturity,waterhemp,49,1m2,2,5.5,0,7.5,32.6,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 410,b4,10,early (1 DAP),anthesis/POST,anthesis,no,PA,7/11/22,PA22,2022,Soybean maturity,waterhemp,60.5,1m2,0,0,0,0,32.6,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
 506,b2,10,early (1 DAP),anthesis/POST,anthesis,no,PA,7/11/22,PA22,2022,Soybean maturity,waterhemp,58,1m2,0,0,0,0,32.6,na,no,,,no,,,no,,,no,,,no,na,na,no,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-204,b2,1,standard (14 DPP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,82.55,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-302,b1,1,standard (14 DPP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-307,b3,1,standard (14 DPP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,82.55,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-512,b4,1,standard (14 DPP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-102,b1,4,standard (14 DPP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-207,b3,4,standard (14 DPP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-404,b2,4,standard (14 DPP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-412,b4,4,standard (14 DPP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-101,b1,11,standard (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-109,b3,11,standard (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-305,b2,11,standard (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,82.55,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-411,b4,11,standard (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-111,b4,14,standard (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,72.39,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-301,b1,14,standard (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-405,b2,14,standard (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-509,b3,14,standard (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-110,b4,6,early (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-403,b1,6,early (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-406,b2,6,early (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-408,b3,6,early (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,72.39,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-306,b2,9,early (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,90.17,1m2,1,0,0,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-310,b4,9,early (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-503,b1,9,early (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-508,b3,9,early (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-312,b4,2,standard (14 DPP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-402,b1,2,standard (14 DPP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-407,b3,2,standard (14 DPP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,74.93,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-504,b2,2,standard (14 DPP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,1,0,0,1,,na,no,,,no,,,no,,,no,,,no,na,na,yes,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104,b2,3,standard (14 DPP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-202,b1,3,standard (14 DPP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-212,b4,3,standard (14 DPP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-507,b3,3,standard (14 DPP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,74.93,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,b2,1,standard (14 DPP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,82.55,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,b1,1,standard (14 DPP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,b3,1,standard (14 DPP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,82.55,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,b4,1,standard (14 DPP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,b1,4,standard (14 DPP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,b3,4,standard (14 DPP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,b2,4,standard (14 DPP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,b4,4,standard (14 DPP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,yes,utc,std,yes,utc,std,yes,utc,std,yes,utc,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,b1,11,standard (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,b3,11,standard (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,b2,11,standard (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,82.55,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,b4,11,standard (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,b4,14,standard (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,72.39,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,b1,14,standard (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,b2,14,standard (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,b3,14,standard (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,yes,utc,late,yes,utc,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,b4,6,early (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,b1,6,early (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,b2,6,early (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,b3,6,early (1 DAP),no residual,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,72.39,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,b2,9,early (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,90.17,1m2,1,0,0,1,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,b4,9,early (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,b1,9,early (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+508,b3,9,early (1 DAP),POST,no residual,yes,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,yes,utc,early,yes,utc,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,b4,2,standard (14 DPP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,b1,2,standard (14 DPP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,b3,2,standard (14 DPP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,74.93,1m2,0,0,0,0,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,b2,2,standard (14 DPP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,1,0,0,1,,na,yes,pre,std,no,,,yes,pre,std,no,,,no,na,na,yes,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,b2,3,standard (14 DPP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,b1,3,standard (14 DPP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,b4,3,standard (14 DPP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,b3,3,standard (14 DPP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,74.93,1m2,0,0,0,0,,na,no,,,yes,pre,std,no,,,yes,pre,std,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 107,b3,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 112,b4,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,72.39,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 304,b2,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 502,b1,5,standard (14 DPP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-209,b3,12,standard (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,83.82,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-211,b4,12,standard (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-401,b1,12,standard (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,71.12,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-505,b2,12,standard (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,83.82,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-205,b2,13,standard (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-311,b4,13,standard (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,72.39,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-409,b3,13,standard (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-501,b1,13,standard (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,b3,12,standard (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,83.82,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,b4,12,standard (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,b1,12,standard (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,71.12,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,b2,12,standard (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,83.82,1m2,0,0,0,0,,na,no,,,no,,,yes,pre,std,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,b2,13,standard (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,b4,13,standard (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,72.39,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,b3,13,standard (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,b1,13,standard (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,no,,,no,,,no,,,yes,pre,late,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 105,b2,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,71.12,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 201,b1,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 309,b3,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 511,b4,15,standard (1 DAP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,72.39,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-106,b2,7,early (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-203,b1,7,early (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-308,b3,7,early (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-510,b4,7,early (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-108,b3,8,early (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-206,b2,8,early (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,86.36,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-210,b4,8,early (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-303,b1,8,early (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,b2,7,early (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,77.47,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,b1,7,early (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,b3,7,early (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,80.01,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,b4,7,early (1 DAP),boot,boot,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,yes,pre,early,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,b3,8,early (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,73.66,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,b2,8,early (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,86.36,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,b4,8,early (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,78.74,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,b1,8,early (1 DAP),anthesis,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,76.2,1m2,0,0,0,0,,na,no,,,yes,pre,early,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 103,b1,10,early (1 DAP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,72.39,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 208,b3,10,early (1 DAP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,81.28,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 410,b4,10,early (1 DAP),anthesis/POST,anthesis,no,PA,10/18/23,PA23,2023,Soybean maturity,commonragweed,69.85,1m2,0,0,0,0,,na,no,,,no,,,no,,,no,,,no,na,na,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
